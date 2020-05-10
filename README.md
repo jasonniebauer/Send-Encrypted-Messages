@@ -35,7 +35,7 @@ Email address: [EMAIL]
 ```
 
 #### Confirm Identity
-Verify the user identity entered is correct. Enter `0` for Okay to confirm.
+Verify the user identity entered is correct. Enter `O` for Okay to confirm.
 ```shell
 Change (N)ame, (E)mail, or (O)kay/(Q)uit?
 ```
