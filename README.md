@@ -114,7 +114,7 @@ gpg --fingerprint
 
 - [ ] What's next?
 
-**Reference Material**
+**Reference Material**  
 https://www.howtogeek.com/427982/how-to-encrypt-and-decrypt-files-with-gpg-on-linux/
 1. https://www.digitalocean.com/community/tutorials/how-to-use-gpg-to-encrypt-and-sign-messages
 2. https://source.opennews.org/articles/how-lose-friends-and-anger-journalists-pgp/
