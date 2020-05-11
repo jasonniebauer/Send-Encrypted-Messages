@@ -127,3 +127,7 @@ https://www.howtogeek.com/427982/how-to-encrypt-and-decrypt-files-with-gpg-on-li
 9. https://gnupg.org/
 10. https://news.bitcoin.com/how-to-encrypt-messages-with-pgp-when-using-darknet-markets/
 11. https://howchoo.com/g/nddkztqzmty/how-to-send-and-receive-encrypted-messages-using-gpg
+12. https://www.devdungeon.com/content/gpg-tutorial
+13. https://hashrocket.com/blog/posts/encryption-with-gpg-a-story-really-a-tutorial
+14. https://www.thegeekstuff.com/2012/10/gnupg-basics/
+15. https://www.techrepublic.com/article/how-to-work-with-pgp-keys-using-gnupg/
