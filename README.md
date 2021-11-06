@@ -50,6 +50,11 @@ Enter a passphrase to protect the new key. You will be prompted to enter the pas
 gpg --list-keys
 ```
 
+List public keys in long format
+```shell
+gpg --list-keys --keyid-format=long
+```
+
 **List Private Keys**
 ```shell
 gpg --list-secret-keys
